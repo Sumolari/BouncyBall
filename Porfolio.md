@@ -84,7 +84,7 @@ Pese a todo en el commmit [c198be](https://github.com/Sumolari/BouncyBall/commit
 
 ### Aritmética de coma entera
 
-"¿Pero qué domonios?" fue lo primero que me vino a la cabeza tras acabar de leer este capítulo. La motivación era legítima pero tener que operar así me parecía un jaleo tremendo, sobre todo al ver en el capítulo siguiente que el autor decide no implementar ningún tipo de método auxiliar, macro o similar para hacer más legibles los cálculos en coma entera.
+"¿Pero qué demonios?" fue lo primero que me vino a la cabeza tras acabar de leer este capítulo. La motivación era legítima pero tener que operar así me parecía un jaleo tremendo, sobre todo al ver en el capítulo siguiente que el autor decide no implementar ningún tipo de método auxiliar, macro o similar para hacer más legibles los cálculos en coma entera.
 
 Inicialmente quise incorporar todas estas operaciones al framework y de hecho hay diversos commits que incluyen una clase para trabajar con coma entera sin embargo la implementación original de las operaciones tenía errores y al final acabé reescribiendo bastantes funciones. En vista de que ni corrigiendo esas funciones conseguía hacer funcionar el código decidí dejar de lado este componente del framework para añadirlo en un futuro.
 
